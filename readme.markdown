@@ -1,4 +1,4 @@
-# here's my rad terminal setup
+# here's my rad terminal setup (a mac os terminal theme)
 
 ![synthwave_rad](rad_bg_preview.png)
 
