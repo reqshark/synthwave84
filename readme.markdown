@@ -1,4 +1,5 @@
-# here's my rad terminal setup (a mac os terminal theme)
+# synthwave 1984
+## mac os terminal theme
 
 ![synthwave_rad](rad_bg_preview.png)
 
@@ -27,5 +28,5 @@ a terminal selection of the ccat output:
 
 edit with vim:
 
-![vim](synthwave_vim.png
-)
+![vim](synthwave_vim.png)
+
